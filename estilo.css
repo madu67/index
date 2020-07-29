@@ -1,0 +1,22 @@
+div{
+    background: url(mar.jpg);
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+.subtitulo{
+border-top: white solid 2px; 
+}
+.botao{
+    text-align: center;
+    border: solid white 2px;
+    padding: 5px;
+    margin-left: 240px; 
+        height: 20px;
+    }
+    
+
+
+
+
+
